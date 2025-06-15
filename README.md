@@ -58,5 +58,4 @@ The dataset used in this analysis includes the following columns:
 
 ---
 
-## 📁 Repository Structure
 
